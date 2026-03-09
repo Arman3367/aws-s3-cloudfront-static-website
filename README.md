@@ -15,7 +15,7 @@ Key goals of the project:
 
 ## Architecture
 
-User → CloudFront CDN → S3 Bucket
+User → Amazon CloudFront (CDN) → Amazon S3
 
 ---
 
