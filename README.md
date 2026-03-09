@@ -6,6 +6,10 @@ This project demonstrates how to deploy a static website using Amazon S3 and del
 
 User → CloudFront CDN → S3 Bucket
 
+## Architecture Diagram
+
+![Architecture](architecture-diagram.png)
+
 ## Services Used
 
 - Amazon S3
