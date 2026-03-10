@@ -21,7 +21,7 @@ User → Amazon CloudFront (CDN) → Amazon S3
 
 ## Architecture Diagram
 
-![AWS Architecture](architecture-diagram.png)
+![AWS Architecture](https://raw.githubusercontent.com/Arman3367/aws-s3-cloudfront-static-website/main/architecture-diagram.png)
 
 ---
 
