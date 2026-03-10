@@ -22,6 +22,7 @@ User → Amazon CloudFront (CDN) → Amazon S3
 ## Architecture Diagram
 
 ![AWS Architecture](architecture-diagram.png)
+
 ---
 
 ## Live Demo
